@@ -1,6 +1,6 @@
 """
-	The purpose of this module is to house global type variables/functions, so we don't need to dirty the global scope
-	with global variables.
+	The purpose of this module is to house global type variables/functions, so we don't need to mess the global scope
+	with variables.
 """
 
 import json
